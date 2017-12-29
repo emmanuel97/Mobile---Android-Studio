@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgendaContatos</string>
+    <string name="del">Excluir</string>
+    <string name="crt">Inserir</string>
+    <string name="edt">Editar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_close">Fechar</string>
+    <string name="back">Voltar</string>
+
+</resources>
